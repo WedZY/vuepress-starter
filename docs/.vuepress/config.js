@@ -15,7 +15,7 @@ export const navbar = [
 ];
 
 export default defineUserConfig({
-  title: 'LuckyCode Blog', // 头部左侧title
+  title: '星期三记录屋', // 头部左侧title
   theme: recoTheme({
     series: {
       // 设置是左侧边栏（sideBar） 还是系列（series）
