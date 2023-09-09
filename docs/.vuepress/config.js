@@ -22,7 +22,7 @@ export default defineUserConfig({
       '/vuepress-theme-reco/': ['introduce', 'usage'],
     },
     navbar, // 顶部或者左侧导航栏
-    author: 'LuckyCode', //作者名字
+    author: '星期三记录屋', //作者名字
     authorAvatar: '/avatar.jpg', //作者头像
   }),
 });

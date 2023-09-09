@@ -4,7 +4,7 @@ modules: # 指定首页展示模块
   - Banner
   - Blog
 banner: # banner 模块的配置
-  heroText: LuckyCode #标题
+  heroText: 星期三记录屋 #标题
   tagline: '用于记录日常开发发现的问题及新知识的学习' #简诉
   heroImage: ''
   heroImageStyle:
